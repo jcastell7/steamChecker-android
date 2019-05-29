@@ -4,10 +4,12 @@ public class User {
 
     private String name;
     private String user_id;
+    private String device_id;
 
-    public User(String name, String user_id) {
+    public User(String name, String user_id, String  device_id) {
         this.name = name;
         this.user_id = user_id;
+        this.device_id = device_id;
     }
 
     public User() {
@@ -30,12 +32,13 @@ public class User {
         this.user_id = user_id;
     }
 
+    public void setDevice_id(String device_id){
+        this.device_id = device_id;
+    }
+
     @Override
     public String toString() {
-        return "User{" +
-                "name='" + name + '\'' +
-                ", user_id='" + user_id + '\'' +
-                '}';
+        return "{" + name +":"+ device_id + '}';
     }
 }
 

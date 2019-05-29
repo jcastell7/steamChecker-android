@@ -9,4 +9,7 @@
     <string name="email_registration">Email</string>
     <string name="confirm_password">Confirm Password</string>
     <string name="dbnode_users">Users</string>
+    <string name="add_game">Add game</string>
+    <string name="game_id">Game ID</string>
+    <string name="game_price">Expected game price</string>
 </resources>

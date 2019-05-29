@@ -8,4 +8,7 @@
     <string name="email_registration">Correo Electronico</string>
     <string name="confirm_password">Confirmar contraseña</string>
     <string name="dbnode_users">Usuarios</string>
+    <string name="add_game">Agregar Juego</string>
+    <string name="game_id">ID del juego</string>
+    <string name="game_price">Precio esperado del juego</string>
 </resources>
