@@ -6,4 +6,7 @@
     <string name="action_sign_in_short">Sign in</string>
     <string name="sign_in">Sign In</string>
     <string name="register">Register</string>
+    <string name="email_registration">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="dbnode_users">Users</string>
 </resources>
