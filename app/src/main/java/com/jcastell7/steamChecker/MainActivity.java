@@ -76,6 +76,8 @@ public class MainActivity extends AppCompatActivity {
                                 public void onComplete(@NonNull Task<AuthResult> task) {
 
                                     hideDialog();
+                                    Intent intent = new Intent(MainActivity.this, addGamesActivity.class);
+                                    startActivity(intent);
 
                                 }
                             }).addOnFailureListener(new OnFailureListener() {

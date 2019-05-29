@@ -13,6 +13,6 @@ public class addGamesActivity extends AppCompatActivity {
     }
 
     public void addGame(View view){
-         
+
     }
 }
