@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "2073376463",
+    "firebase_url": "https://steam-checker-ce699.firebaseio.com",
+    "project_id": "steam-checker-ce699",
+    "storage_bucket": "steam-checker-ce699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2073376463:android:4f76030a9f36dce4",
+        "android_client_info": {
+          "package_name": "com.jcastell7.steamChecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2073376463-3fd0s5ii0emdmcm9nausdh21tvsi7gmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jcastell7.steamChecker",
+            "certificate_hash": "dc47d448dede6ea49a0183000f4b90d7b4dae3ee"
+          }
+        },
+        {
+          "client_id": "2073376463-ckemk080sj7v5rmbnah0io19onkaqigf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOdLkKWI73AW22udKQs8fgkdU9TsNScuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2073376463-ckemk080sj7v5rmbnah0io19onkaqigf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
