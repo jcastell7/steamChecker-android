@@ -22,8 +22,6 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.FirebaseDatabase;
 import com.jcastell7.steamChecker.Models.User;
 
-import codingwithmitch.com.firebasedirectmessage.models.User;
-
 
 public class RegisterActivity extends AppCompatActivity {
 
@@ -179,3 +177,4 @@ public class RegisterActivity extends AppCompatActivity {
     private void hideSoftKeyboard(){
         this.getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
     }
+}
